@@ -27,4 +27,4 @@ The learning rate was crucial for improving my model's performance. I implemente
 
 ## Deployment
 After making some adjustments to the hyperparameters and training the model I evaluated and deployed to Hugging Face.
-Link Here - [text](https://huggingface.co/Chribabc/LLM_Project_Lighthouse)
+Link Here - [Hugging Face - Model Deployment](https://huggingface.co/Chribabc/LLM_Project_Lighthouse)
