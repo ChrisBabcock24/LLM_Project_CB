@@ -24,3 +24,7 @@ These results indicate that the model was effective at capturing key ideas (ROUG
 
 ## Hyperparameters
 The learning rate was crucial for improving my model's performance. I implemented a learning rate scheduler to gradually reduce the rate as the model converged. Given the limited resources and the large size of the dataset, batch sizes were particularly important for functionality. I also utilized gradient accumulation to simulate larger batches without sacrificing memory. Additionally, I trained using chunks of the dataset to manage memory usage and avoid exceeding available memory limits.
+
+## Deployment
+After making some adjustments to the hyperparameters and training the model I evaluated and deployed to Hugging Face.
+Link Here - [text](https://huggingface.co/Chribabc/LLM_Project_Lighthouse)
